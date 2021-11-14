@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestReportAPI", "TestReportAPI\TestReportAPI.csproj", "{A9359DBA-5606-4B0B-BE1C-66EEFD4F0107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReportBL", "TextReportBL\TextReportBL.csproj", "{CD4B348A-F189-4AD9-9B0C-57172E82F16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9359DBA-5606-4B0B-BE1C-66EEFD4F0107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9359DBA-5606-4B0B-BE1C-66EEFD4F0107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9359DBA-5606-4B0B-BE1C-66EEFD4F0107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9359DBA-5606-4B0B-BE1C-66EEFD4F0107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4B348A-F189-4AD9-9B0C-57172E82F16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4B348A-F189-4AD9-9B0C-57172E82F16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4B348A-F189-4AD9-9B0C-57172E82F16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4B348A-F189-4AD9-9B0C-57172E82F16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E6D8B4-FF14-491D-819D-75242CB3977F}
+	EndGlobalSection
+EndGlobal
